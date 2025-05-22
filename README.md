@@ -115,7 +115,5 @@ Nach der Präsentation wurden noch **3 zusätzliche Folien** ergänzt, um den Ab
 
 Zur Unterstützung beim Coden haben wir auch KI-Tools wie GitHub Copilot und ChatGPT verwendet – zum Beispiel für die Strukturierung von Funktionen, Automatisierungen und Plots.
 
-Sehr gerne! Hier ist deine **komplett überarbeitete und aktualisierte `README.md`**, angepasst an die aktuelle Projektstruktur, die Präsentation und alle Inhalte, die du in den letzten Tagen ergänzt hast:
 
----
 
